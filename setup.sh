@@ -55,7 +55,7 @@ print_hyphens
 
 echo -e '\e[1;32mInstallation Completed Successfully!\e[0m'
 
-echo -e "Developed by \e[1mTech Team, Navisto : \e[0mDarshan Malagimani &  Ajay Shanbhog :) "
+echo -e "Developed by \e[1mTech Team, Navisto : \e[0mDarshan Malagimani, Ajay Shanbhog & Kiran Easwar :) "
 
 #!/bin/bash
 
