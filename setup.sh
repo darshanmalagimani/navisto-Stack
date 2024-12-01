@@ -6,6 +6,7 @@ sudo apt install nano -y
 sudo apt install ufw -y 
 sudo apt install net-tools 
 sudo apt install htop 
+sudo apt install curl
 
 sudo apt install docker.io -y 
 sudo chmod 666 /var/run/docker.sock 
