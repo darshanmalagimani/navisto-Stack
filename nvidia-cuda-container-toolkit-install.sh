@@ -12,3 +12,4 @@ sudo apt-get install -y nvidia-container-toolkit
 
 sudo systemctl restart docker
 
+sudo shutdown -r +1 "System Will Reboot in 1 Minute..."
